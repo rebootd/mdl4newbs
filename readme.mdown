@@ -1,0 +1,12 @@
+# mdl talk
+
+
+## ref:
+- getmdl.io
+- https://github.com/GoogleChrome/dialog-polyfill
+- https://github.com/rebootd/mdl4newbs
+
+## contact
+- https://twitter.com/4spacetabs
+
+
