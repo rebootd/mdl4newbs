@@ -5,9 +5,10 @@
 - https://material.io/guidelines/material-design/introduction.html
 - https://getmdl.io
 - https://github.com/GoogleChrome/dialog-polyfill
-- https://github.com/rebootd/mdl4newbs
+- http://material.cmiscm.com/
 
 ## contact
+- https://github.com/rebootd/mdl4newbs
 - http://computerist.co
 - emailto:hello@computerist.co
 - https://twitter.com/4spacetabs
